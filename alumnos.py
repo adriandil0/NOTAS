@@ -25,3 +25,4 @@ def buscarAlumno(codAlumno : str,alumnos : dict):
         print(f"No se encontro el estudiante con el codigo {codAlumno}")
         os.system("pause")
         
+        
