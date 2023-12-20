@@ -27,3 +27,5 @@ def buscarAlumno(codAlumno : str,alumnos : dict):
         os.system("pause")
 
         #hhss
+        print("hola")
+        
