@@ -1,4 +1,5 @@
 import os
+
 def regAlumno()->dict:
     codigo = input("Ingrese el codigo del estudiante : ")
     nombre = input("Ingrese el nombre del estudiante : ")
@@ -24,5 +25,5 @@ def buscarAlumno(codAlumno : str,alumnos : dict):
     else:
         print(f"No se encontro el estudiante con el codigo {codAlumno}")
         os.system("pause")
-        
-        
+
+        #hhss
